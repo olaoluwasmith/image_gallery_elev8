@@ -6,8 +6,9 @@ This repository contains HTML and CSS source code for a basic Image Gallery. The
 
 The main components of the code include:
 
-- HTML Elements
-- CSS Styles:
+- HTML elements
+- CSS styles
+- Google font etc
 
 ## Flexbox Usage
 
