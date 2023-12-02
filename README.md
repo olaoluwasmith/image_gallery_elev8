@@ -8,7 +8,7 @@ The main components of the code include:
 
 - HTML elements
 - CSS styles
-- Google font etc
+- Google font etc.
 
 ## Flexbox Usage
 
